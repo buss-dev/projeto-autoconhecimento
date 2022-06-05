@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.97bfd9b1.css",
-    "main.js": "/static/js/main.f5e268bf.js",
-    "static/media/logoMonca.png": "/static/media/logoMonca.62bbf1a28455257d9e7c.png",
-    "index.html": "/index.html",
-    "main.97bfd9b1.css.map": "/static/css/main.97bfd9b1.css.map",
-    "main.f5e268bf.js.map": "/static/js/main.f5e268bf.js.map"
+    "main.css": "/projeto-autoconhecimento/static/css/main.97bfd9b1.css",
+    "main.js": "/projeto-autoconhecimento/static/js/main.a5ce9a81.js",
+    "static/media/logoMonca.png": "/projeto-autoconhecimento/static/media/logoMonca.62bbf1a28455257d9e7c.png",
+    "index.html": "/projeto-autoconhecimento/index.html",
+    "main.97bfd9b1.css.map": "/projeto-autoconhecimento/static/css/main.97bfd9b1.css.map",
+    "main.a5ce9a81.js.map": "/projeto-autoconhecimento/static/js/main.a5ce9a81.js.map"
   },
   "entrypoints": [
     "static/css/main.97bfd9b1.css",
-    "static/js/main.f5e268bf.js"
+    "static/js/main.a5ce9a81.js"
   ]
 }
