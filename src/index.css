@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html {
+  padding: 0;
+  margin: 0;
+  background-color: #FEEDDC;
+}
+
+#root {
+  background-color: #FEEDDC;
+}
+
+.bgMonica {
+  background-color: #FEEDDC;
+  height: 80vh;
+}
+
+.sizeQuizMonica {
+  width: 30%;
+}
+
+@media (max-width: 959px)
+{
+    .sizeQuizMonica {
+        width: 80%;
+    }
+}

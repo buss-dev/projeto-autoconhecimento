@@ -1,0 +1,7 @@
+.headerMonica {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1E1E1E;
+    height: 20vh;
+    padding: 1rem;
+}

@@ -1,0 +1,19 @@
+.quizMonica {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100rem;
+}
+
+.flexQuizButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+@media (max-width: 959px)
+{
+    .quizMonica {
+        width: 100%;
+    }
+}
