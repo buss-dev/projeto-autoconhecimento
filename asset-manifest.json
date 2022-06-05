@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97bfd9b1.css",
+    "main.js": "/static/js/main.f5e268bf.js",
+    "static/media/logoMonca.png": "/static/media/logoMonca.62bbf1a28455257d9e7c.png",
+    "index.html": "/index.html",
+    "main.97bfd9b1.css.map": "/static/css/main.97bfd9b1.css.map",
+    "main.f5e268bf.js.map": "/static/js/main.f5e268bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97bfd9b1.css",
+    "static/js/main.f5e268bf.js"
+  ]
+}
