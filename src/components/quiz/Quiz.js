@@ -123,8 +123,8 @@ export default function Quiz() {
     return (
         
         <div>
-            {id != 18 ? <QuizQuest id={id} quest1={quest}/> : ""}
-            {id != 18 ?
+            {id !== 18 ? <QuizQuest id={id} quest1={quest}/> : ""}
+            {id !== 18 ?
             <>
             <div className="row justify-content-between space-evenly">
                     <Button
