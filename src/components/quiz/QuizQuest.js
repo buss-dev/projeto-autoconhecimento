@@ -5,7 +5,7 @@ export default function QuizQuest({quest1, id}) {
     return (
         <div className="quizMonicaQuestions mt-2">
             <div className="row">
-                <img alt='imgQuiz' className='p-4' src={quest1.imgSource}></img>
+                <img alt='imgQuiz' className='p-4 imgQuiz' src={quest1.imgSource}></img>
             </div>
 
             <div className="row pb-2 text-center">

@@ -11,9 +11,36 @@
     justify-content: center;
 }
 
+.fontOptiMonka {
+    font-size: .9rem;
+    font-style: italic;
+    text-align: left;
+}
+
+.quizMonicaQuestions {
+    /* border: 1px solid black; */
+}
+
+.botoesOpti button{
+    font-size: 1.8rem;
+}
+
+.imgQuiz {
+    max-width: 100%;
+}
+
 @media (max-width: 959px)
 {
     .quizMonica {
         width: 100%;
+    }
+
+    .botoesOpti button{
+        font-size: 1.2rem;
+    }
+
+    .fontOptiMonka {
+        font-size: .6rem;
+        text-align: center;
     }
 }
